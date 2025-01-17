@@ -1,0 +1,21 @@
+# Core Python packages
+torch
+transformers
+datasets
+Pillow
+python-dotenv
+tqdm
+
+# WooCommerce API
+woocommerce
+
+# Pinecone client
+pinecone-client
+
+# Google BigQuery (if used)
+google-cloud-bigquery
+google-auth
+
+# Utilities
+requests
+open-clip-torch
